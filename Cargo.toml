@@ -1,0 +1,11 @@
+[package]
+name = "disk-sched"
+version = "0.1.0"
+edition = "2021"
+description = "Disk scheduling algorithms: FCFS, SSTF, SCAN, C-SCAN, LOOK with seek time metrics"
+license = "MIT"
+repository = "https://github.com/SuperInstance/disk-sched"
+keywords = ["disk-scheduling", "fcfs", "sstf", "scan", "look"]
+categories = ["algorithms", "simulation"]
+authors = ["SuperInstance"]
+readme = "README.md"
